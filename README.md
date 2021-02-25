@@ -4,14 +4,14 @@
 
 初步实现小程序矩阵雏形
 
-![](https://github.com/WillingSasi/mina-wear-mask/blob/main/readme-images/3.jpg)
+![Image text](https://github.com/WillingSasi/mina-wear-mask/blob/main/readme-images/3.jpg)
 请搜索『头像加口罩』或者扫描小程序码体验
 
-![](https://github.com/WillingSasi/mina-wear-mask/blob/main/readme-images/1.png)
+![Image text](https://github.com/WillingSasi/mina-wear-mask/blob/main/readme-images/1.png)
 
-![](https://github.com/WillingSasi/mina-wear-mask/blob/main/readme-images/2.png)
+![Image text](https://github.com/WillingSasi/mina-wear-mask/blob/main/readme-images/2.png)
 
-小程序矩阵雏形
+小程序矩阵雏形git
 - 头像加口罩
 - 头像加字
 - 头像加福
